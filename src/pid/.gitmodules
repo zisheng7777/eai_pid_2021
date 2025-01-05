@@ -1,0 +1,6 @@
+[submodule "tel21_stage2_sec"]
+	path = tel21_stage2_sec
+	url = git@gitlab.ical.tw:a1075139/tel21_stage2_sec.git
+[submodule "cmake/cmake_template"]
+	path = cmake/cmake_template
+	url = git@gitlab.ical.tw:e8035669/cmake_template.git

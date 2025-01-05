@@ -1,0 +1,12 @@
+target_link_libraries(camera_node
+camera_lib
+pid
+${OpenCV_LIBS}
+${catkin_LIBRARIES}
+)
+#target_link_libraries(eai_control_node
+#eai_control_lib
+#pid
+#${OpenCV_LIBS}
+#${catkin_LIBRARIES}
+#)
